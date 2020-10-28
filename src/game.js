@@ -1,3 +1,16 @@
+// preLoadGame() {
+//   console.log("preload this game");
+//   this.playerImage = loadImage(
+//     "./assets/character.left"
+//   );
+// }
+
+// setupGame() {
+//   console.log("set up game");
+//   this.player = new Player();
+//   this.player.image = this.playerImage;
+// }
+
 class Game {
   drawGrid() {
     // Iteration 1
